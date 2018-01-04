@@ -6,7 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Added
 secret.py
+.vscode/
+twitterbottwitterbot/
 
 # Distribution / packaging
 .Python
